@@ -1,0 +1,9 @@
+{
+  "name": "Wanderly Travel Planner",
+  "short_name": "Wanderly",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#6c5ce7",
+  "background_color": "#f7f8fc",
+  "icons": []
+}
